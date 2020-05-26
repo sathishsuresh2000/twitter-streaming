@@ -1,0 +1,18 @@
+{
+  "server": {
+    "port": 5000
+  },
+  "twitter": {
+    "consumerKey": "",
+    "consumerSecret": "",
+    "accessTokenKey": "",
+    "accessTokenSecret": ""
+  },
+
+  "messages": {
+    "displayCount": 25
+  },
+  "session": {
+    "ttlInSec": 900
+  }
+}
